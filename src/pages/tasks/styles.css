@@ -1,0 +1,26 @@
+.tasks {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    background: white;
+    border: 1px solid #EBEFF2;
+    font-family: Poppins, sans-serif;
+}
+.tasks_header{
+    padding-top: 30px;
+}
+.tasks_button {
+    padding-top: 30px;
+}
+.tasks_content{
+    padding-top: 70px;
+    width: 350px;
+    margin: auto;
+}
+.tasks_content_input{
+    display: flex;
+    justify-content: space-between;
+}
+.tasks_content_input_icon{
+    direction: rtl;
+}

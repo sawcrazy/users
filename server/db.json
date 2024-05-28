@@ -1,0 +1,120 @@
+{
+  "tasks": [
+    {
+      "name": "Сделать машину",
+      "checkTask": false,
+      "userId": "10",
+      "id": 1
+    },
+    {
+      "name": "Убрать мусор",
+      "checkTask": false,
+      "userId": "10",
+      "id": 2
+    },
+    {
+      "name": "Сварить гречку",
+      "checkTask": false,
+      "userId": "10",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "tasks": 0,
+      "avatar": "/img/1.jpg",
+      "username": "Bret",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+      "website": "hildegard.org",
+      "twitter": "twitter/id",
+      "facebook": "facebook/id",
+      "instagram": "instagram/id",
+      "fullName": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "mobile": "+7(900)-000-00-00",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "technologies": {
+        "php": 77,
+        "js": 50
+      },
+      "languages": {
+        "english": 50,
+        "russian": 100
+      }
+    },
+    {
+      "id": 2,
+      "tasks": 0,
+      "avatar": "/img/2.jpg",
+      "username": "Karianne",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+      "website": "hildegard.org",
+      "twitter": "twitter/id",
+      "facebook": "facebook/id",
+      "instagram": "instagram/id",
+      "fullName": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "1-770-736-8031 x56442",
+      "mobile": "+7(900)-000-00-00",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "technologies": {
+        "php": 47,
+        "js": 60
+      },
+      "languages": {
+        "english": 50,
+        "russian": 77
+      }
+    },
+    {
+      "avatar": "/img/avatar1.png",
+      "username": "Andrew",
+      "fullName": "Nikulin",
+      "email": "sawcrazy@yandex.ru",
+      "website": "www.sawcrazy.ru",
+      "technologies": {
+        "php": 1
+      },
+      "languages": {
+        "english": -1
+      },
+      "tasks": 0,
+      "id": 10
+    },
+    {
+      "avatar": "/img/avatar5.png",
+      "username": "Геральд",
+      "fullName": "Из Ривии",
+      "email": "www@www.com",
+      "website": "www@www.com",
+      "technologies": {
+        "php": 10
+      },
+      "languages": {
+        "english": 10
+      },
+      "tasks": 0,
+      "id": 11
+    }
+  ]
+}

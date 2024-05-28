@@ -1,0 +1,111 @@
+.user-page{
+   width: 1200px;
+    display: flex;
+}
+.user-page_avatar{
+    margin: 10px;
+}
+.user-page_info{
+    margin: 10px;
+}
+.user-page_progress{
+    display: flex;
+}
+.section_avatar{
+    padding-top: 20px;
+    text-align: center;
+    width: 300px;
+    border: solid 1px blue;
+    border-radius: 25px;
+}
+.section_avatar_img{
+    height: 100px;
+    width: 100px;
+}
+.user-name{
+    color: darkblue;
+    display: block;
+    font-weight: bold;
+
+}
+.info{
+    width: 250px;
+    margin: auto;
+}
+.btn_users{
+    height: 30px;
+    width: 100px;
+    background-color:white;
+    border-radius: 25px;
+    border: solid 1px grey;
+    color: blue;
+    margin: 0 20px 5px 20px;
+
+
+}
+.btn_users:hover{
+    background-color: darkblue;
+    color: white;
+}
+.section_social{
+    width: 300px;
+    border: solid 1px blue;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.section_social div:last-child{
+    border-bottom:none ;
+}
+.size{
+    height: 12px;
+    width: 12px;
+    padding: 10px 10px 0 10px;
+}
+.section_social_text{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px grey;
+}
+.section_social_text_value{
+    padding: 10px 10px 3px 10px;
+}
+.section_info{
+    width: 600px;
+    border: solid 1px blue;
+    border-radius: 25px;
+
+}
+.section_info_text{
+    display: flex;
+    border-bottom: solid 1px grey;
+}
+.section_info div:last-child{
+    border-bottom:none;
+}
+
+.section_info_text-name{
+    padding: 10px 20px 0 30px;
+    width: 80px;
+}
+.section_info_text-value{
+    padding: 10px 20px 0 30px;
+}
+.section_languages{
+    width: 255px;
+    border: solid 1px blue;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.section_technologies{
+    width: 255px;
+    border: solid 1px blue;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.progress-line{
+    border: 2px solid blue;
+}

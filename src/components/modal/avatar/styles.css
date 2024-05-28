@@ -1,0 +1,22 @@
+.avatars_change{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.avatars_choice img{
+    width: 105px;
+    height: 105px;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.active{
+    border: 1px solid red;
+}
+.avatars_choice_check{
+    border: 1px solid red;
+}
+.avatars_choice img:hover{
+    transform: scale(1.2)
+}

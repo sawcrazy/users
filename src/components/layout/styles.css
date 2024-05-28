@@ -1,0 +1,114 @@
+.main {
+    display: flex;
+}
+.header {
+    width: 100%;
+    height: 60px;
+}
+.header-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    padding-left: 36px;
+    border: 1px solid #EBEFF2;
+}
+.header-search-input{
+    width: 100%;
+}
+.header-search-input input {
+    background: url('img/search.svg') no-repeat 4px;
+    border: none;
+    padding: 20px 50px;
+    color: #90A0B7;
+    font-size: 12px;
+    outline: none;
+    width: 100%;
+}
+.header-search-bell{
+    padding-right: 36px;
+}
+.content {
+    background: #F5F6F8;
+    height: 100%;
+    text-align: center;
+}
+.search-and-content {
+    width: 100%;
+}
+.users-menu {
+    width: 256px;
+    height: 100vh;
+    box-shadow: 6px 0 18px 0 rgba(0, 0, 0, 0.06);
+    background: #fff;
+}
+.user-menu-name {
+    color:#109CF1;
+    padding: 17px 24px;
+    height: 60px;
+    border-bottom: 1px solid #EBEFF2;
+}
+.user-menu-avatar {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 208px;
+    height: 46px;
+    padding-left: 36px;
+    padding-top: 25px;
+}
+.user-menu-avatar_img img{
+    width: 46px;
+    height:46px;
+    border-radius: 50%;
+}
+.user-menu-avatar_name {
+    padding: 5px;
+}
+.user-menu-avatar_email {
+    padding: 5px;
+}
+.user-menu-lists {
+    align-items: center;
+    padding-top: 43px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #EBEFF2;
+    margin-bottom: 25px;
+}
+.user-menu-lists_item{
+    display:flex;
+    width: 100%;
+    height: 20px;
+    cursor: pointer;
+    padding-left: 24px;
+    margin-bottom: 20px;
+}
+.user-menu-lists_item a {
+    text-decoration: none;
+    outline: none;
+    color:#334D6E;
+}
+.user-menu-lists_item a:hover {
+    color:#109CF1;
+}
+.user-menu-lists_item:hover svg path{
+    stroke: #109CF1;
+}
+.user-menu-lists_item svg{
+    margin-right: 15px;
+}
+.user-menu-lists img{
+    margin-right: 14px;
+    vertical-align: middle;
+}
+.user-menu-setting img{
+    margin-right: 14px;
+}
+.user-menu-toggle {
+    position:absolute;
+    bottom:0;
+}
+.user-menu-toggle img{
+    margin-right: 14px;
+}

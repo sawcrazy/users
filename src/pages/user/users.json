@@ -1,0 +1,316 @@
+[
+  {
+    "id": 1,
+    "avatar": "/img/1.jpg",
+    "username": "Bret",
+    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 2,
+    "avatar": "/img/2.jpg",
+    "username": "Karianne",
+    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Patricia Lebsack",
+    "email": "Julianne.OConner@kory.org",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "technologies": {
+      "php": 47,
+      "js": 60
+    },
+    "languages": {
+      "english": 50,
+      "russian": 77
+    }
+  },
+  {
+    "id": 3,
+    "avatar": "/img/3.jpg",
+    "username": "Bret",
+    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 4,
+    "avatar": "/img/4.jpg",
+    "username": "Bret",
+    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quaerat?",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 5,
+    "avatar": "/img/5.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 6,
+    "avatar": "/img/1.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 7,
+    "avatar": "/img/2.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 8,
+    "avatar": "/img/3.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 9,
+    "avatar": "/img/4.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  },
+  {
+    "id": 10,
+    "avatar": "/img/5.jpg",
+    "username": "Bret",
+    "website": "hildegard.org",
+    "twitter": "twitter/id",
+    "facebook": "facebook/id",
+    "instagram": "instagram/id",
+    "fullName": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "mobile": "+7(900)-000-00-00",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "technologies": {
+      "php": 77,
+      "js": 50
+    },
+    "languages": {
+      "english": 50,
+      "russian": 100
+    }
+  }
+]
